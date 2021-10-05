@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Nayakan",
+        "poster_image_url": "https://www.imdb.com/title/tt0093603/mediaviewer/rm1040255488/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Tamil",
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "director": "Mani Ratnam"
+    },
+    {
+        "name": "Anbe Sivam",
+        "poster_image_url": "https://www.imdb.com/title/tt0367495/mediaviewer/rm3025237504/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Tamil",
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "director": "Sundar C."
+    },
+    {
+        "name": "Pariyerum Perumal",
+        "poster_image_url": "https://www.imdb.com/title/tt8176054/mediaviewer/rm2678026496/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Tamil",
+        "Genres": [],
+        "director": "Prabunath"
+    },
+    {
+        "name": "C/o Kancharapalem",
+        "poster_image_url": "https://www.imdb.com/title/tt7391996/mediaviewer/rm2611779329/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Telugu",
+        "Genres": [],
+        "director": "Venkatesh Maha"
+    },
+    {
+        "name": "Golmaal",
+        "poster_image_url": "https://www.imdb.com/title/tt0079221/mediaviewer/rm3716412160/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Hindi",
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "director": "Hrishikesh Mukherjee"
+    },
+    {
+        "name": "Manichitrathazhu",
+        "poster_image_url": "https://www.imdb.com/title/tt0214915/mediaviewer/rm676456192/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Malayalam",
+        "Genres": [
+            "Comedy",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Thriller"
+        ],
+        "director": "Fazil"
+    },
+    {
+        "name": "Kireedam",
+        "poster_image_url": "https://www.imdb.com/title/tt0237376/mediaviewer/rm3779787009/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Malayalam",
+        "Genres": [
+            "Action",
+            "Drama"
+        ],
+        "director": "Sibi Malayil"
+    },
+    {
+        "name": "Apur Sansar",
+        "poster_image_url": "https://www.imdb.com/title/tt0052572/mediaviewer/rm2084100609/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Bengali",
+        "Genres": [],
+        "director": "Satyajit Ray"
+    },
+    {
+        "name": "Natsamrat",
+        "poster_image_url": "https://www.imdb.com/title/tt5311546/mediaviewer/rm3539275520/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Marathi",
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "director": "Mahesh Manjrekar"
+    },
+    {
+        "name": "96",
+        "poster_image_url": "https://www.imdb.com/title/tt7019842/mediaviewer/rm656438016/?ref_=tt_ov_i",
+        "country": "India",
+        "langauge": "Tamil",
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "director": "C. Prem Kumar"
+    }
+]
